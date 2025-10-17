@@ -1,1 +1,3 @@
 2025-10-16 23:20:49,020 | INFO | Loaded 8007 symbols from NASDAQ/NYSE
+2025-10-16 23:23:46,956 | INFO | connect failed; reconnecting in 2.1 seconds: ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)
+2025-10-16 23:23:49,137 | INFO | connect failed; reconnecting in 3.1 seconds: ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)
