@@ -8,3 +8,4 @@
 2025-10-16 23:39:21,504 | INFO | Loaded 8007 symbols from NASDAQ/NYSE
 2025-10-16 23:52:36,161 | INFO | Loaded 8007 symbols from NASDAQ/NYSE
 2025-10-16 23:55:03,429 | INFO | Subscribed → options/trades
+2025-10-16 23:57:24,989 | WARNING | WS error: received 1008 (policy violation); then sent 1008 (policy violation); reconnecting...
