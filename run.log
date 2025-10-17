@@ -2,3 +2,4 @@
 2025-10-16 23:23:46,956 | INFO | connect failed; reconnecting in 2.1 seconds: ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)
 2025-10-16 23:23:49,137 | INFO | connect failed; reconnecting in 3.1 seconds: ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)
 2025-10-16 23:26:23,978 | INFO | connect failed; reconnecting in 5.0 seconds: ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)
+2025-10-16 23:29:00,183 | INFO | connect failed; reconnecting in 8.1 seconds: ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)
